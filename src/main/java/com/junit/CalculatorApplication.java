@@ -26,5 +26,10 @@ public class CalculatorApplication {
 		
 		
 	}
+	
+	public String msgFirst() {
+		
+		return "This is First msg";
+	}
 
 }
